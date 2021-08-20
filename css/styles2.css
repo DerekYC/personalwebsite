@@ -1,0 +1,29 @@
+
+.headerfamily{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+    font-family: helvetica;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-family: helvetica;
+  font-size: 70px;
+}
+
+a.imageLink{
+    text-decoration:none;
+}
+
+.bg-background {
+    background: url(../images/background.png) no-repeat center center fixed; 
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    padding: 300px;
+}
+
