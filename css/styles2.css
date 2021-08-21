@@ -24,6 +24,13 @@ a.imageLink{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    padding: 300px;
+    padding: 100px;
 }
 
+.container-head{
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);W
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  margin-right: auto;
+  margin-left: auto;
+}
